@@ -1,0 +1,6 @@
+
+Bcsharpsquid:S29331"Make 'tokens' 'readonly'.(²ùÿÿÿÿ8£­¸ÚÄ1
+Pcsharpsquid:S1144W",Remove the unused private method 'NextLong'.(­é“8¦­¸ÚÄ1
+Wcsharpsquid:S1144\".Remove the unused private method 'NextDouble'.(ª‚Ï÷üÿÿÿÿ8©­¸ÚÄ1
+Ucsharpsquid:S1144a",Remove the unused private method 'NextLine'.(Ëª‘¶úÿÿÿÿ8«­¸ÚÄ1
+~csharpsquid:S3260/"[Private classes which are not derived in the current assembly should be marked as 'sealed'.(ÉÜİm8¯­¸ÚÄ1

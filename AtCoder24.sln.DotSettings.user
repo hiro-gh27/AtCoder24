@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=67cabde1_002Dfc44_002D4e56_002Dbe99_002D0fc600aa2478/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProgramTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/hiroki/RiderProjects/AtCoder24/test" Presentation="&amp;lt;test&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74164c6b_002Df3a2_002D4ac6_002Dbf6e_002D59333ff90ae4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProgramTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::4F0150D4-DD64-4BA8-99F6-BD71D0CD47AB::net7.0::AtCoder.ProgramTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::4F0150D4-DD64-4BA8-99F6-BD71D0CD47AB::net7.0::ProgramTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::4F0150D4-DD64-4BA8-99F6-BD71D0CD47AB::net7.0::test.abc305.a.AtCoder.ProgramTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::4F0150D4-DD64-4BA8-99F6-BD71D0CD47AB::net7.0::test.abc100.c.AtCoder.ProgramTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::4F0150D4-DD64-4BA8-99F6-BD71D0CD47AB::net7.0::test.abc117.c.AtCoder.ProgramTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
